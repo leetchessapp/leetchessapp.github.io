@@ -29,12 +29,15 @@ Users can search for puzzles based on ratings, openings, tactical themes, pieces
 ![puzzle-main](./pz_main.png)
 
 - Puzzle main interface puzzle continued
+
 ![puzzle-main-1](./pz_main-1.png)
 
 - Puzzle main interface puzzle solved
+
 ![puzzle-main-2](./pz_main-2.png)
 
 - Puzzle main adding puzzle to my saved puzzle list
+
 ![puzzle-main-3](./pz_main-3.png)
 
 ### Tracking puzzle progress/accuracy
@@ -42,9 +45,11 @@ Users can search for puzzles based on ratings, openings, tactical themes, pieces
 Users can track their progress/accuracy in solving puzzles, and the app records which puzzles they have solved and which they are still working on.
 
 - Puzzle set tracking on progress, accuracy and time spent
+
 ![puzzle-tracking](./pz_tracking.png)
 
 - Puzzle set birdview
+
 ![puzzle-tracking-1](./pz_tracking-1.png)
 
 ### Reset result
@@ -52,5 +57,7 @@ Users can track their progress/accuracy in solving puzzles, and the app records 
 The app allows users to reset their results for specific puzzles. This means that if a user solves a puzzle but wants to try again to improve their time or score, they can reset the puzzle's results and try again. This feature is especially useful for users who want to challenge themselves and improve their tactical skills.
 
 - Puzzle set progress `RESET` or `DELETE`
+
 ![puzzle-tracking-2](./pz_tracking-2.png)
+
 ![puzzle-tracking-3](./pz_tracking-3.png)
