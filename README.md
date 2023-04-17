@@ -65,6 +65,20 @@ The app allows users to reset their results for specific puzzles. This means tha
 
 ![puzzle-tracking-3](./pz_tracking-3.png)
 
+- Puzzle set progress `RESET` or `DELETE`
+
+![puzzle-tracking-2](./pz_tracking-2.png)
+![puzzle-tracking-3](./pz_tracking-3.png)
+
+### Puzzle status and settings
+
+- Total number of puzzles and ratings
+
+![puzzle-stats](./pz_stats.png)
+
+- Puzzle settings
+
+![puzzle-settings](./pz_settings.png)
 
 ## Questions and issues
 
