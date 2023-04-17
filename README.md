@@ -1,4 +1,7 @@
 # Leet Chess
+
+![leetchess](./leetchess.png)
+
 >
 > Sharpen your chess skills
 
