@@ -2,7 +2,7 @@
 >
 > Sharpen your chess skills
 
--![leetchess mobile screenshots](./portfolio.png)
+![leetchess mobile screenshots](./portfolio.png)
 
 ## Available on
 
