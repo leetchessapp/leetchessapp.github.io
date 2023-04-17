@@ -61,3 +61,10 @@ The app allows users to reset their results for specific puzzles. This means tha
 ![puzzle-tracking-2](./pz_tracking-2.png)
 
 ![puzzle-tracking-3](./pz_tracking-3.png)
+
+
+## Questions and issues
+
+- Email: `leetchessapp@gmail.com`
+- Submit issues at leetchess [GitHub Issues Page](https://github.com/leetchessapp/leetchessapp.github.io/issues)
+
